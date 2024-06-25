@@ -41,4 +41,10 @@ export const data = [
     pv: 4300,
     amt: 2100,
   },
+  {
+    name: "Page I",
+    uv: 2500,
+    pv: 4300,
+    amt: 2100,
+  },
 ];
